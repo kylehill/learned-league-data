@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha"
+    "start": "node index"
   },
   "private": true,
   "author": "Kyle Hill <kylehill@gmail.com>",
