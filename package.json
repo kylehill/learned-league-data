@@ -1,0 +1,16 @@
+{
+  "name": "learnedleague-parser",
+  "version": "0.0.1",
+  "description": "LearnedLeague data analysis",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "private": true,
+  "author": "Kyle Hill <kylehill@gmail.com>",
+  "license": "MIT"
+}
