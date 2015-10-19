@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index"
+    "start": "node league_rankings"
   },
   "private": true,
   "author": "Kyle Hill <kylehill@gmail.com>",
