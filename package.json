@@ -4,7 +4,8 @@
   "description": "LearnedLeague data analysis",
   "main": "index.js",
   "dependencies": {
-    "csv-parse": "^1.0.0"
+    "csv-parse": "^1.0.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {
